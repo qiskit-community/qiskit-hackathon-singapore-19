@@ -10,7 +10,9 @@ You need to install the following software packages for the hackathon:
 - Jupyter notebook
 - Qiskit
 
-You can follow the instructions here to install the required software packages: https://qiskit.org/documentation/install.html Or here if you prefer following a video: https://www.youtube.com/watch?v=M4EkW4VwhcI&list=PLOFEBzvs-Vvp2xg9-POLJhQwtVktlYGbY&index=3
+You can follow the instructions here to install the required software packages: https://qiskit.org/documentation/install.html
+
+Or here if you prefer watching a video: https://www.youtube.com/watch?v=M4EkW4VwhcI&list=PLOFEBzvs-Vvp2xg9-POLJhQwtVktlYGbY&index=3
 
 ### Optional
 
