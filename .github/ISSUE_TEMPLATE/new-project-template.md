@@ -9,7 +9,7 @@ assignees: ''
 
 # Abstract
 <!-- Describe your idea in 3 or 4 sentences -->
- 
+
 # Description <!-- ⚠️ Optional. Remove this section if not needed -->
 <!-- A more detailed description of the idea -->
 
@@ -18,11 +18,10 @@ assignees: ''
 
  - @githubhandle <!-- ⚠️ Use github handles and feel free to and contact information, like the slack handle -->
  - @githubhandle - Slack: `@slackhandle` email: `example@example.com`
- - IBM Coach: @githubhandle <!-- ⚠️ Before the final submission, the project needs to have a coach -->
+ - Qiskit Coach: @githubhandle <!-- ⚠️ Before the final submission, the project needs to have a coach -->
 
 # Deliverable
 <!-- A paper, a mobile app, a Terra module, etc -->
 
 # GitHub repo
 <!-- A link to the github repo where the project will be developed -->
-
