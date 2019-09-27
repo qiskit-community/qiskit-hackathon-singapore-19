@@ -1,5 +1,9 @@
 # Qiskit Hackathon @ Singapore 2019
 
+## Things to do before the hackathon
+
+Check the [`preparation&installation`](preparation%26installation.md) note for things to do before the hackathon
+
 ## I have an idea for the hackathon
 
 Open an issue using the [`new project template`](https://github.com/qiskit-community/qiskit-hackathon-singapore-19/issues/new?assignees=&labels=members+wanted&template=new-project-template.md&title=Project+name) template.
