@@ -28,6 +28,6 @@ You can follow the instructions [here](https://qiskit.org/documentation/install.
 ## Things to learn
 
 Here are some learning resources for Qiskit:
-- [Coding with Qiskit Youtube series](https://www.youtube.com/playlist?list=PLOFEBzvs-Vvp2xg9-POLJhQwtVktlYGbY) (strongly recommended!)
+- [Coding with Qiskit Youtube series](https://www.youtube.com/playlist?list=PLOFEBzvs-Vvp2xg9-POLJhQwtVktlYGbY) (*strongly recommended!*)
 - [Qiskit tutorials](https://quantum-computing.ibm.com/jupyter/tutorial/1_start_here.ipynb)
 - [Qiskit textbook](https://community.qiskit.org/textbook/)
