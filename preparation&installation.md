@@ -15,15 +15,15 @@ You can follow the instructions [here](https://qiskit.org/documentation/install.
 ### Optional
 
 - Integrated development environment (IDE) or text editor for coding
- - [PyCharm (for python)](https://www.jetbrains.com/pycharm/)
- - [Atom text editor](https://atom.io)
- - [Visual Studio Code](https://code.visualstudio.com)
+  - [PyCharm (for python)](https://www.jetbrains.com/pycharm/)
+  - [Atom text editor](https://atom.io)
+  - [Visual Studio Code](https://code.visualstudio.com)
 
 - For making quantum games
- - [Qiskit for GameDev toolkit](https://github.com/HuangJunye/Qiskit-for-GameDev)
- - [Pygame game engine](https://www.pygame.org/wiki/GettingStarted)
- - [Unity game engine](https://unity.com)
- - [Godot game engine](https://godotengine.org)
+  - [Qiskit for GameDev toolkit](https://github.com/HuangJunye/Qiskit-for-GameDev)
+  - [Pygame game engine](https://www.pygame.org/wiki/GettingStarted)
+  - [Unity game engine](https://unity.com)
+  - [Godot game engine](https://godotengine.org)
 
 ## Things to learn
 
