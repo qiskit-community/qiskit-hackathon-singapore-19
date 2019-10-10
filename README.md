@@ -24,3 +24,37 @@ After the project is defined and the team is complete, you can ask an IBMer in t
 A Qiskit coach guides and advices the team in its project.
 Also will be your contact point after the hackathon, in case that the project have a continuation.
 The team needs a coach before the final submission at the end of the hackathon.
+
+
+## Hackathon Schedule
+
+| Day 1 |  |
+|:--------------:|:---------------------------------:|
+| 09:00 | Registration |
+| 09:30 - 12:00 | Welcome and Kick-off Tutorials |
+| 12:00 - 13:00 | Lunch |
+| 13:00 - 14:00 | Brainstorming & Team forming |
+| 14:00 - 18:00 | Hacking Session 1 |
+| 18:00 - 19:00 | Dinner |
+| 19:00 - 20:00 | Hacking Session 2 |
+|  |  |
+| Day 2 |  |
+| 08:30 - 12:00 | Hacking Session 3 |
+| 12:00 - 13:00 | Lunch |
+| 13:00 - 15:30 | Final Hacking Session |
+| 15:00 - 17:00 | Team Demos |
+| 17:00 - 18:00 | Closing ceremony |
+| 18:00 - 19:00 | Closing networking event & snacks |
+
+
+## Speakers and Coaches
+
+  * [Dimitris Angelakis](https://quantumlah.org/people/profile/dimitris) - Principal Investigator, Centre for Quantum Technologies, NUS
+  * [Luciano Bello, PhD](https://researcher.watson.ibm.com/researcher/view.php?person=ibm-Luciano.Bello) - Qiskit Core Development Team Thomas J. Watson Research Center, NY USA
+  * [Huang Junye](https://github.com/HuangJunye) - Participant of the first Qiskit Camp, Co-Creator of QPong
+  * [Naoki Kanazawa](https://researcher.watson.ibm.com/researcher/view.php?person=jp-KNZWNAO) - IBM Tokyo Lab
+  * [Yuri Kobayashi](https://github.com/veenaiyuri) - Quantum Developer Community Lead, Asia IBM Systems
+  * [Atsushi Matsuo](https://researcher.watson.ibm.com/researcher/view.php?person=jp-MATSUOA) - Researcher, Quantum Algorithms & Software at IBM Research – Tokyo
+  * [Rudy Raymond, PhD](https://researcher.watson.ibm.com/researcher/view.php?person=jp-RUDYHAR) - Research Staff Member of Quantum Algorithms & Software at IBM Research – Tokyo
+  * [Chris Wood, PhD](https://researcher.watson.ibm.com/researcher/view.php?person=us-cjwood) - Research Scientist, Theory of Quantum Computing & Information, Thomas J. Watson Research Center, NY USA
+  * [Anurag Saha Roy](https://www.anuragsaharoy.me/), Quantum Engineer at Atomionics. Quantum Control developer at OpenSuperQ
